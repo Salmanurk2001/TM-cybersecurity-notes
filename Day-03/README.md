@@ -1,10 +1,10 @@
 # Day-03
 
-* The instalation of VMWare
+* The installation of VMWare
 * Booted Kali linux to the system in virtual machine (detailed study on booting the system )
 * Studied command in kali linux  
   - Ls
-  - cd (file name)
+  - cd 
   - pwd
   - cd ..
   - clear 
